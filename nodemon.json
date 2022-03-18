@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": ".ts",
+  "ignore": [],
+  "execMap": {"ts":"node --require ts-node/register"}
+}
