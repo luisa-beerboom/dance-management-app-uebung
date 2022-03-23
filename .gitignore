@@ -1,0 +1,6 @@
+# ignore the savefile
+userdata.txt
+
+# ignore ALL files in ANY directory named node_modules und dist/server
+node_modules/ 
+dist/server/
